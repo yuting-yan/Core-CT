@@ -1,6 +1,6 @@
 # Core-CT
 
-Matlab application to analyse computer tomography(CT) scans of sediment and coral cores for geoscience investigations. Core-CT is a user-friendly platform with a graphical user interface to facilitate the visualisation, analysis and plotting of CT scan data.
+Matlab application to analyse computer tomography(CT) scans of sediment and coral cores for geoscience investigations. Core-CT is a user-friendly platform with a graphical user interface to facilitate the import, visualisation, analysis, plotting and export of CT scan data.
 
 Core-CT requires Matlab 2019a and newer versions and the following toolbox:
   - Image Processing Toolbox
