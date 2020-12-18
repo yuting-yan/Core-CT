@@ -9,6 +9,9 @@ generally contain these three sedimentary facies in sequence:
 (2) massive sand layer
 (3) a mud cap 
 
+CT scan image can be found from this link:
+https://entuedu-my.sharepoint.com/:u:/g/personal/yuting004_e_ntu_edu_sg/ERI_rgHcHLFCjVDwTQOX5XwBc38QTEknrmih3KQsN7TuZA?e=BNu78O
+
 
 References:
 * Kempf, P., Moernaut, J., Van Daele, M., Vermassen, F., Vandoorne, W., Pino, M., ... & De Batist, M. (2015). The sedimentary record of the 1960 tsunami in two coastal lakes on Isla de Chiloé, south central Chile. Sedimentary geology, 328, 73-86.
