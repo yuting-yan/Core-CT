@@ -9,7 +9,7 @@ Core-CT requires Matlab 2019a and newer versions and the following toolbox:
 
 Core-CT repository contains the following:
 * 'Core-CT.mlappinstall' : download and install Core-CT application on your Matlab software
-* 'Core-CT.mlapp' : source code for Core-CT
+* 'Core-CT.mlapp' : source code for Core-CT (use appdesigner to open the file)
 * User Guide: instructions to install and use Core-CT
 
 
