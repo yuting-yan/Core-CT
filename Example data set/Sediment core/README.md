@@ -1,7 +1,6 @@
-This is a set of CT scan images from Lake Huelde, Chile. Lake Huelde is Lake Huelde, Chile (Kempf et al., 2015; Kempf et al., 2017). 
-Lake Huelde is located on the west coast of Chiloé Island in south-central Chile, along the centre of the 1960 CE Great Chilean Earthquake rupture zone 
-that induced a large tsunami event across the Pacific Ocean. Lake Huelde contains a long sedimentary record (up to ~5500 cal years BP) of tsunami events 
-in the region.  
+This is a set of CT scan images from Lake Huelde, Chile (Kempf et al., 2015; Kempf et al., 2017). Lake Huelde is located on the west coast of Chiloé Island in south-central Chile, along the centre of the 1960 CE Great Chilean Earthquake rupture zone that induced a large tsunami event across the Pacific Ocean. Lake Huelde contains a long sedimentary record (up to ~5500 cal years BP) of tsunami events in the region.
+
+This example is the top core section of the master core (POS 15) to identify the tsunami deposits. The core is CT scanned using a Siemens Flash Medical CT scanner with a voxel resolution of ~0.15 x 0.15 x 0.6 mm (xyz). 
 
 The stratigraphy of the lake is dominated by either homogenous or laminated gyttja and is interrupted by episodic tsunami deposits. The tsunami deposits 
 generally contain these three sedimentary facies in sequence: 
