@@ -10,7 +10,7 @@ generally contain these three sedimentary facies in sequence:
 (3) a mud cap 
 
 CT scan image can be found from this link:
-https://entuedu-my.sharepoint.com/:u:/g/personal/yuting004_e_ntu_edu_sg/ERI_rgHcHLFCjVDwTQOX5XwBc38QTEknrmih3KQsN7TuZA?e=BNu78O
+https://entuedu-my.sharepoint.com/:f:/g/personal/yuting004_e_ntu_edu_sg/EuAuVInMfedFgg1eYpeCXg8BHCmDm7ICurhDFUiqhqnucg?e=ToUo0w
 
 
 References:
