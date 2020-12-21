@@ -6,21 +6,18 @@ Core-CT requires Matlab 2019a and newer versions and the following toolbox:
   - Image Processing Toolbox
   - Signal Processing Toolbox
 
-/
 
 Core-CT version folder:
 * 'Core-CT.mlappinstall' (download and install Core-CT application on your Matlab software)
 * 'Core-CT.mlapp' (appdesigner file)
 * User Guide (instructions to install and use Core-CT)
 
-/
 
 Codes folder: 
 * codes for various key functions of Core-CT
 
 Example dataset folder: 
 * contains CT scan images of sediment and coral core for users to test Core-CT with 
-
 
 
 > version 1.0 (initial public release)
