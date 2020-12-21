@@ -18,11 +18,11 @@ Core-CT version folder:
 
 
 Codes folder: 
-  * codes for various key functions of Core-CT\
+  * codes for various key functions of Core-CT
 
 
 Example dataset folder: 
-  * contains CT scan images of sediment and coral core for users to test Core-CT with\ 
+  * contains CT scan images of sediment and coral core for users to test Core-CT with 
 
 _Last Modified December 21, 2020, Yu Ting Yan_
 
