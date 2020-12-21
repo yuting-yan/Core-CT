@@ -43,3 +43,6 @@ close (h) % close waitbar
 %% converting from gray values to HU
 Original = int16 (Original); % change from unsigned to signed integer to accomodate negative values
 Original = (Original*info.RescaleSlope) + info.RescaleIntercept; % changing to HU
+
+%% making sure that the DICOM is loaded the right way up
+% Original = flip(Original,3); % flip if required
