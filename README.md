@@ -15,9 +15,9 @@ Core-CT repository contains the following:
 
 > version 1.0 (initial public release)
 
-> version 1.0 (latest version)
+> version 1.1 (latest version)
 
-Last Modified October 18, 2020, Yu Ting Yan
+Last Modified December 21, 2020, Yu Ting Yan
 
 
 
