@@ -24,6 +24,10 @@ Codes folder:
 Example dataset folder: 
   * contains CT scan images of sediment and coral core for users to test Core-CT with 
 
+Example CT scan images are not uploaded within the GitHub folder as they exceed the upload capacity. The images are uploaded on Nanyang Technological University data repository:
+
+_Link_
+
 _Last Modified December 21, 2020, Yu Ting Yan_
 
 Please contact Yu Ting Yan (yuting004@e.ntu.edu.sg) with any problems, questions, or concerns.
