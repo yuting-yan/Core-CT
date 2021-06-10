@@ -6,9 +6,7 @@ Core-CT requires Matlab 2019a and newer versions and the following toolbox:
   - Image Processing Toolbox
   - Signal Processing Toolbox
 
-> version 1.0 (initial public release)
 
-> version 1.1 (latest version)
 
 
 Core-CT version folder:
@@ -28,3 +26,9 @@ Example dataset folder:
 _Last Modified December 21, 2020, Yu Ting Yan_
 
 Please contact Yu Ting Yan (yuting004@e.ntu.edu.sg) with any problems, questions, or concerns.
+
+> version 1.0 (initial public release)
+
+> version 1.1 (latest version)
+
+
