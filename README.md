@@ -18,7 +18,7 @@ Core-CT version folder:
 
 
 Codes folder: 
-  * codes for various key functions of Core-CT
+  * Code for Core-CT application
 
 
 Example dataset folder: 
