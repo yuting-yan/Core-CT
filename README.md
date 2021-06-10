@@ -23,7 +23,7 @@ Example dataset folder:
   * contains CT scan images of sediment and coral core for users to test Core-CT with 
 
 
-_Last Modified December 21, 2020, Yu Ting Yan_
+_Last Modified June 10, 2020, Yu Ting Yan_
 
 Please contact Yu Ting Yan (yuting004@e.ntu.edu.sg) with any problems, questions, or concerns.
 
